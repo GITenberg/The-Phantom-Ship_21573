@@ -1,0 +1,38 @@
+_repo: The-Phantom-Ship_21573
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Marryat, Frederick
+    aliases:
+    - Marryat, F. W. (Frederick W.)
+    - Marryat, Kapitein
+    - Marryat, Captain
+    - Marryatt, Captain
+    birthdate: 1792
+    deathdate: 1848
+    gutenberg_agent_id: '627'
+    url: http://www.gutenberg.org/2009/agents/627
+    wikipedia: http://en.wikipedia.org/wiki/Frederick_Marryat
+description: Including a famous chapter starring a werewolf, Captain Marryat's 1839
+  supernatural sea saga retells the legend of The Flying Dutchman . Philip Vanderdecken
+  is on a maritime quest to rescue his cursed father. Wearing a relic of the Holy
+  Cross, Philip has a chance to lift the curse if he can find the doomed wanderer.
+gutenberg_issued: '2007-05-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21573'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Horror tales'
+- !lcsh 'Flying Dutchman -- Fiction'
+- !lcsh 'Immortalism -- Fiction'
+- !lcsh 'Sea stories'
+title: The Phantom Ship
+url: http://www.gutenberg.org/ebooks/21573
